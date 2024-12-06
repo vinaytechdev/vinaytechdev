@@ -60,7 +60,7 @@ I believe in implementing the knowledge which you have. Projects play a signific
 <a  href="https://t.me/vinaytechdev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a  href="https://discord.com/users/vinaytechdev"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"></a>
 <a  href="https://www.twitter.com/vinaytechdev/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=Twiiter&logoColor=white"></a>
-<a  href="buymeacoffee.com/vinaytechdev"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=Buy Me a Coffee&logoColor=white"></a>
+<a  href="buymeacoffee.com/vinaytechdev"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=BuyMeaCoffee&logoColor=white"></a>
 <a  href="https://vinaytechdev.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 <br />
